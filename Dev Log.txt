@@ -1,0 +1,57 @@
+Development Log
+
+AGILE
+
+LARGE PROJECT GOALS
+1)pull data from twitter account
+
+2)organize into database
+
+3)analyze data from database
+
+TECHNOLOGIES
+
+python - frontend
+SQL - database backend
+
+TECHNICALS
+
+1)twitter pull as a csv
+2)read csv into python
+2.5)get list of complete 2016 blue jays roster
+3)parse csv into variables
+4)store variables into SQL database
+5)use SQL functions 
+
+
+
+example input
+Call *helps* #BlueJays
+Ball 1 should be strike 1
+Bot 7 Miller vs Tulowitzki
+24% call same
+1.6in from edge
+
+Variables
+1)Favor
+	-help
+	-hurt
+2)umpCall 
+	-strike
+	-ball
+umpCallCount
+	-#
+strikeZoneCall
+	-strike
+	-ball
+strikeZoneCallCount
+	-#
+3)Inning
+	-top #
+	-bot #
+bluejayPlayer
+	-[player name]
+4)percentSame
+	-#
+5)Distance
+	-#
