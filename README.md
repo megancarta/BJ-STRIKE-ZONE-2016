@@ -1,4 +1,8 @@
 # BJ-STRIKE-ZONE-2016
+CONTRIBUTIONS:
+Megan Carta for SQL and data analysis
+Ben Catalan for Python scripting
+
 Database and analysis of umpire strike zone calls that help or hurt the Blue Jays 
 
 We wanted to see if MLB umpires truly hated Canada. 
@@ -19,6 +23,7 @@ However, what we could do in the future to further improve our project would be 
 
 
 #process
+
 -Using python we pulled all of @BlueJaysUmp's tweets
 -We then parsed the tweets into variables
 -Put variables into a readable csv file
