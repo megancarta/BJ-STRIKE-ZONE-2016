@@ -1,9 +1,7 @@
 # BJ-STRIKE-ZONE-2016
-_CONTRIBUTIONS:_
-
-_Megan Carta for SQL and data analysis_
-
-_Ben Catalan for Python scripting_
+CONTRIBUTIONS:
+* Megan Carta for SQL and data analysis
+* Ben Catalan for Python scripting
 
 
 
@@ -15,7 +13,7 @@ We found an automated twitter account, @BlueJaysUmp, that tweets every time an u
 
 
 
-results
+RESULTS
 --------
 We found that for the 2016 MLB regular season and post season, the umpire calls helped the blue jays a total of () times and hurt the blue jays a total of () times.
 
@@ -33,7 +31,7 @@ However, what we could do in the future to further improve our project would be 
 
 
 
-process
+PROCESS
 --------
 - Using python we pulled all of @BlueJaysUmp's tweets
 - We then parsed the tweets into variables
@@ -43,6 +41,6 @@ process
 
 
 
-#required dependencies
+REQUIRED DEPENDENCIES
 --------
 - MySQL 3.0 workbench
