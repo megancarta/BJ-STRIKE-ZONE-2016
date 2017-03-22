@@ -1,8 +1,8 @@
 # BJ-STRIKE-ZONE-2016
 ```
 CONTRIBUTIONS:
-Megan Carta for SQL and data analysis
-Ben Catalan for Python scripting
+Megan Carta for SQL and Data Analysis
+Ben Catalan for Python Scripting
 ```
 
 Database and analysis of umpire strike zone calls that help or hurt the Blue Jays 
@@ -15,7 +15,7 @@ We found an automated twitter account, @BlueJaysUmp, that tweets every time an u
 
 RESULTS
 --------
-We found that for the 2016 MLB regular season and post season, the umpire calls helped the blue jays a total of () times and hurt the blue jays a total of () times.
+We found that for the 2016 MLB regular season and post season, the umpire calls helped the Blue Jays a total of () times and hurt the Blue Jays a total of () times.
 
 
 The player who had the most calls against him was () with () calls that hurt him, while the player who had the most calls in their favour was () with () calls that helped him.
