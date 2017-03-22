@@ -1,8 +1,10 @@
 # BJ-STRIKE-ZONE-2016
-CONTRIBUTIONS:
+_CONTRIBUTIONS:_
 
-Megan Carta for SQL and data analysis
-Ben Catalan for Python scripting
+_Megan Carta for SQL and data analysis_
+
+_Ben Catalan for Python scripting_
+
 
 
 Database and analysis of umpire strike zone calls that help or hurt the Blue Jays 
@@ -13,8 +15,8 @@ We found an automated twitter account, @BlueJaysUmp, that tweets every time an u
 
 
 
-#results
-
+results
+--------
 We found that for the 2016 MLB regular season and post season, the umpire calls helped the blue jays a total of () times and hurt the blue jays a total of () times.
 
 
@@ -31,17 +33,16 @@ However, what we could do in the future to further improve our project would be 
 
 
 
-#process
-
--Using python we pulled all of @BlueJaysUmp's tweets
--We then parsed the tweets into variables
--Put variables into a readable csv file
--In MySQL, we created two tables.  One was a complete list of all of the Blue Jays players for the 2016 including their position.
-                                   The other table we populated using the csv file.
--Then, we constructed our queries in order to analyze the data.
+process
+--------
+- Using python we pulled all of @BlueJaysUmp's tweets
+- We then parsed the tweets into variables
+- Put variables into a readable csv file
+- In MySQL, we created two tables.  One was a complete list of all of the Blue Jays players for the 2016 including their position.  The other table we populated using the csv file.
+- Then, we constructed our queries in order to analyze the data.
 
 
 
 #required dependencies
-
--MySQL 3.0 workbench
+--------
+- MySQL 3.0 workbench
