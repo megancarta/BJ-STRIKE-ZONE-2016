@@ -1,8 +1,7 @@
 # BJ-STRIKE-ZONE-2016
 CONTRIBUTIONS:
-* Megan Carta for SQL and data analysis
-* Ben Catalan for Python scripting
-
+######Megan Carta for SQL and data analysis
+######Ben Catalan for Python scripting
 
 
 Database and analysis of umpire strike zone calls that help or hurt the Blue Jays 
